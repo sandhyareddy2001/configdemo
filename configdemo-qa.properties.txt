@@ -1,2 +1,0 @@
-configdemo.minimum=1
-configdemo.maximum=10
